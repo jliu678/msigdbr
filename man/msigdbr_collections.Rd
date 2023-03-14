@@ -4,7 +4,7 @@
 \alias{msigdbr_collections}
 \title{List the collections available in the msigdbr package}
 \usage{
-msigdbr_collections()
+msigdbr_collections(species = "human")
 }
 \value{
 A data frame of the available collections.
